@@ -220,9 +220,3 @@ while số_lần<= 2:
                 mat_khau = str(input("Hãy nhập mật khẩu: "))  
                 if số_lần > 2:
                     print("Tài khoản đã bị khóa, về ăn rau moá đi kưng")
-
-                    
-
-
-
-     
